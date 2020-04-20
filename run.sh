@@ -1,0 +1,1 @@
+nvidia-docker run -it -v $HOME/renderedAI/blender_docker/:/workspace/ --rm rendered
